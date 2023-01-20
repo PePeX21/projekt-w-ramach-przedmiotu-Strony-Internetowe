@@ -15,7 +15,7 @@ Wymagania pozafunkcjonalne:<br />
 6.W arkuszu (lub arkuszach) styli muszą znaleźć się przynajmniej trzy reguły dotyczące każdej ze stron aplikacji<br />
 <br />
 W projekcie dodatkowo zostało zaimplementowane haszowanie haseł przy zapisie do bazy danych i mechanizm ochrony przed wstrzykiwaniem SQLa. Strona internetowa jest postawiona lokalnie z użyciem bazy danych oferowanej przez XAMPP.
-Baza danych jest postawiona lokalnie z uzyciem <br />
+Baza danych jest postawiona lokalnie z uzyciem MySQL <br />
  <br />
 ![image](https://user-images.githubusercontent.com/67105405/213756797-6d7b438c-3dad-492e-84e7-b95687092aa6.png)
 <br />
