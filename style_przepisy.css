@@ -1,0 +1,175 @@
+@media(min-width:468px){
+    .container1{
+		display:flex;
+		align-items:flex-start;
+		justify-content:space-between
+		background-color: #fefefe;
+    }
+    
+    .container2{
+		display:flex;  
+		justify-content:space-between; // around fajniejsze
+		background-color: #fefefe;
+    }
+ }
+  
+	.container3{
+    display:flex;  
+    flex-wrap:wrap;
+    justify-content:space-around;
+ }
+  
+ .container1 div, .container2 div, .container3 div{
+    border:1px #ccc solid;
+    padding:10px;
+ }
+  
+ .box11{
+   flex:3;
+   order:1;
+   background-color: #fefefe;
+   text-align: center;
+	padding: 12px;
+ }
+  
+ .box12{
+    flex-basis:25%  ;
+    order:2;
+	background-color: #fefefe;
+	text-align: center;
+	padding: 12px;
+ }
+  
+  .box21{
+   flex-basis: 30%; 
+	background-color: #fefefe; 
+	text-align: center;
+	padding: 12px;	
+ }
+  
+ .box22{
+   flex-basis: 25%;
+   background-color: #fefefe;
+   text-align: center;
+	padding: 12px;
+ }
+  
+ .box3{
+	margin-top: 20px;
+	flex-basis: 10%;
+	background-color: #fefefe;
+	text-align: center;
+	padding: 12px;
+ }
+  
+  
+ body
+{
+    font-family:sans-serif;
+}
+.banner-area{
+    width:100%;
+    background-color: red;
+	background-size:cover;
+	background-image:url("img/backgrBIG.jpg");
+}
+.content-area{
+    height:100%;
+    display:flex;
+    justify-content: center;
+    align
+	background-color: red;
+}
+
+.btn1{
+    width: 250px;
+	background-color: black;
+	font-size:20px;
+	color: white;
+	padding:15px;
+	margin-top:1px;
+    border:none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;	
+    outline:none;             
+}
+
+.btn2{
+	width: 200px;
+	background-color: black;
+	font-size:20px;
+	color: white;
+	padding:15px;
+	margin-top:1px;
+    border:none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;	
+    outline:none;             
+}
+
+
+
+input[type=text],
+input[type=password]
+{
+	width: 300px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+	border: 2px solid #000000;
+	background-color: #e9f3e9;
+	color: #428c42;
+}
+
+input[type=submit]
+{
+	width: 300px;
+	background-color: black;
+	font-size:20px;
+	color: white;
+	padding: 15px 10px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+}
+
+input[type=submit]:focus
+.btn1:focus,
+.btn2:focus
+{
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+}
+
+input[type=submit]:hover,
+.btn1:hover,
+.btn2:hover
+{
+	background-color: white;
+	color: black;
+	border-style: outset;
+	border-color: black;
+	border-radius: 50px;
+}
+  
+  
