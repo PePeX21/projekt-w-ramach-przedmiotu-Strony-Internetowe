@@ -17,7 +17,7 @@ Wymagania pozafunkcjonalne:<br />
 W projekcie dodatkowo zostało zaimplementowane haszowanie haseł przy zapisie do bazy danych i mechanizm ochrony przed wstrzykiwaniem SQLa. Strona internetowa jest postawiona lokalnie z użyciem bazy danych oferowanej przez XAMPP.
 Baza danych jest postawiona lokalnie z uzyciem <br />
  <br />
-![image](https://user-images.githubusercontent.com/67105405/213755900-588709c1-0488-4fe8-826e-8e37ad45ca33.png)
+![image](https://user-images.githubusercontent.com/67105405/213756797-6d7b438c-3dad-492e-84e7-b95687092aa6.png)
 <br />
 ![image](https://user-images.githubusercontent.com/67105405/213756245-6852e7cf-3cc6-4ad2-92d1-807c9f19eead.png)
 <br />
