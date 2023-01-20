@@ -1,6 +1,6 @@
 # projekt-w-ramach-przedmiotu-Strony-Internetowe
 
-Celem projektu jest stworzenie strony logowania.<br \>
+Celem projektu jest stworzenie strony logowania.<br />
 
 Wymagania funkcjonalne:
 1.Strona główna zawiera informacje ogólne o tej aplikacji internetowej oraz mechanizm umożliwiający użytkownikowi rejestrację lub zalogowanie się.
